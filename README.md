@@ -26,20 +26,6 @@ And finally, maintaining your version number`:
 Happy Pawning!
 -->
 
-## Installation
-
-Simply install to your project:
-
-```bash
-sampctl package install Haymin/iSimple-Gamemode
-```
-
-Include in your code and begin using the library:
-
-```pawn
-#include <iSimple-Gamemode>
-```
-
 ## Usage
 
 <!--
