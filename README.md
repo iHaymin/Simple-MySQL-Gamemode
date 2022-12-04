@@ -1,6 +1,6 @@
 # iSimple-Gamemode
 
-[![sampctl](https://img.shields.io/badge/sampctl-iSimple--Gamemode-2f2f2f.svg?style=for-the-badge)](https://github.com/Haymin/iSimple-Gamemode)
+[![sampctl](https://img.shields.io/badge/sampctl-iSimple--Gamemode-2f2f2f.svg?style=for-the-badge)](https://github.com/iHaymin/Simple-MySQL-Gamemode)
 
 ## Testing
 
